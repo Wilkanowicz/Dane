@@ -1,109 +1,109 @@
-Goods;City;Year;Value;;;;;;;
-Coal & coke;Gd;01.01.2017;5083;;;;;;;
-Ores;Gd;01.01.2017;93;;;;;;;
-Other bulk goods;Gd;01.01.2017;3444;;;;;;;"Ores"",""Other bulk goods"",""Coal & coke"",""Grain"",""Wood"",""General cargo"",""Oil"",""Total"", ""Containers [TEU]"
-Grain;Gd;01.01.2017;774;;;;;;;
-Wood;Gd;01.01.2017;3;;;;;;;
-General cargo;Gd;01.01.2017;18050;;;;;;;
-Oil;Gd;01.01.2017;13168;;;;;;;
-Total;Gd;01.01.2017;40614;;;;;;;
-Containers [TEU];Gd;01.01.2017;1580508;;;;;;;
-Coal & coke;Gd;01.01.2018;7186;;;;;;;
-Ores;Gd;01.01.2018;10;;;;;;;
-Other bulk goods;Gd;01.01.2018;3914;;;;;;;
-Grain;Gd;01.01.2018;559;;;;;;;
-Wood;Gd;01.01.2018;429;;;;;;;
-General cargo;Gd;01.01.2018;21422;;;;;;;
-Oil;Gd;01.01.2018;15512;;;;;;;
-Total;Gd;01.01.2018;49032;;;;;;;
-Containers [TEU];Gd;01.01.2018;1948974;;;;;;;
-Coal & coke;Gd;01.01.2019;6771;;;;;;;
-Ores;Gd;01.01.2019;14;;;;;;;
-Other bulk goods;Gd;01.01.2019;4112;;;;;;;
-Grain;Gd;01.01.2019;612;;;;;;;
-Wood;Gd;01.01.2019;256;;;;;;;
-General cargo;Gd;01.01.2019;22891;;;;;;;
-Oil;Gd;01.01.2019;17498;;;;;;;
-Total;Gd;01.01.2019;52154;;;;;;;
-Containers [TEU];Gd;01.01.2019;2073215;;;;;;;
-Coal & coke;Gd;01.01.2020;5659;;;;;;;
-Ores;Gd;01.01.2020;534;;;;;;;
-Other bulk goods;Gd;01.01.2020;4534;;;;;;;
-Grain;Gd;01.01.2020;1499;;;;;;;
-Wood;Gd;01.01.2020;12;;;;;;;
-General cargo;Gd;01.01.2020;22109;;;;;;;
-Oil;Gd;01.01.2020;13692;;;;;;;
-Total;Gd;01.01.2020;48038;;;;;;;
-Containers [TEU];Gd;01.01.2020;1923785;;;;;;;
-Coal & coke;Ga;01.01.2017;2135;;;;;;;
-Ores;Ga;01.01.2017;15;;;;;;;
-Other bulk goods;Ga;01.01.2017;1079;;;;;;;
-Grain;Ga;01.01.2017;3483;;;;;;;
-Wood;Ga;01.01.2017;234;;;;;;;
-General cargo;Ga;01.01.2017;12460;;;;;;;
-Oil;Ga;01.01.2017;1819;;;;;;;
-Total;Ga;01.01.2017;710698;;;;;;;
-Containers [TEU];Ga;01.01.2017;21225;;;;;;;
-Coal & coke;Ga;01.01.2018;2629;;;;;;;
-Ores;Ga;01.01.2018;0;;;;;;;
-Other bulk goods;Ga;01.01.2018;1311;;;;;;;
-Grain;Ga;01.01.2018;2995;;;;;;;
-Wood;Ga;01.01.2018;979;;;;;;;
-General cargo;Ga;01.01.2018;13817;;;;;;;
-Oil;Ga;01.01.2018;1760;;;;;;;
-Total;Ga;01.01.2018;803871;;;;;;;
-Containers [TEU];Ga;01.01.2018;23491;;;;;;;
-Coal & coke;Ga;01.01.2019;2877;;;;;;;
-Ores;Ga;01.01.2019;0;;;;;;;
-Other bulk goods;Ga;01.01.2019;1492;;;;;;;
-Grain;Ga;01.01.2019;3221;;;;;;;
-Wood;Ga;01.01.2019;365;;;;;;;
-General cargo;Ga;01.01.2019;14148;;;;;;;
-Oil;Ga;01.01.2019;1863;;;;;;;
-Total;Ga;01.01.2019;896968;;;;;;;
-Containers [TEU];Ga;01.01.2019;23965;;;;;;;
-Coal & coke;Ga;01.01.2020;1685;;;;;;;
-Ores;Ga;01.01.2020;0;;;;;;;
-Other bulk goods;Ga;01.01.2020;1564;;;;;;;
-Grain;Ga;01.01.2020;5431;;;;;;;
-Wood;Ga;01.01.2020;102;;;;;;;
-General cargo;Ga;01.01.2020;14108;;;;;;;
-Oil;Ga;01.01.2020;1772;;;;;;;
-Total;Ga;01.01.2020;905121;;;;;;;
-Containers [TEU];Ga;01.01.2020;24662;;;;;;;
-Coal & coke;Sz;01.01.2017;2139;;;;;;;
-Ores;Sz;01.01.2017;2483;;;;;;;
-Other bulk goods;Sz;01.01.2017;3077;;;;;;;
-Grain;Sz;01.01.2017;1462;;;;;;;
-Wood;Sz;01.01.2017;16;;;;;;;
-General cargo;Sz;01.01.2017;12870;;;;;;;
-Oil;Sz;01.01.2017;3378;;;;;;;
-Total;Sz;01.01.2017;93579;;;;;;;
-Containers [TEU];Sz;01.01.2017;25424;;;;;;;
-Coal & coke;Sz;01.01.2018;3440;;;;;;;
-Ores;Sz;01.01.2018;3226;;;;;;;
-Other bulk goods;Sz;01.01.2018;3373;;;;;;;
-Grain;Sz;01.01.2018;1095;;;;;;;
-Wood;Sz;01.01.2018;76;;;;;;;
-General cargo;Sz;01.01.2018;13431;;;;;;;
-Oil;Sz;01.01.2018;3973;;;;;;;
-Total;Sz;01.01.2018;81451;;;;;;;
-Containers [TEU];Sz;01.01.2018;28614;;;;;;;
-Coal & coke;Sz;01.01.2019;3130;;;;;;;
-Ores;Sz;01.01.2019;2273;;;;;;;
-Other bulk goods;Sz;01.01.2019;3351;;;;;;;
-Grain;Sz;01.01.2019;1304;;;;;;;
-Wood;Sz;01.01.2019;200;;;;;;;
-General cargo;Sz;01.01.2019;17512;;;;;;;
-Oil;Sz;01.01.2019;4406;;;;;;;
-Total;Sz;01.01.2019;76143;;;;;;;
-Containers [TEU];Sz;01.01.2019;32175;;;;;;;
-Coal & coke;Sz;01.01.2020;2557;;;;;;;
-Ores;Sz;01.01.2020;1685;;;;;;;
-Other bulk goods;Sz;01.01.2020;3140;;;;;;;
-Grain;Sz;01.01.2020;1876;;;;;;;
-Wood;Sz;01.01.2020;104;;;;;;;
-General cargo;Sz;01.01.2020;16874;;;;;;;
-Oil;Sz;01.01.2020;4942;;;;;;;
-Total;Sz;01.01.2020;86816;;;;;;;
-Containers [TEU];Sz;01.01.2020;31178;;;;;;;
+Goods;City;Year;Value
+Coal & coke;Gd;2017;5083
+Ores;Gd;2017;93
+Other bulk goods;Gd;2017;3444
+Grain;Gd;2017;774
+Wood;Gd;2017;3
+General cargo;Gd;2017;18050
+Oil;Gd;2017;13168
+Total;Gd;2017;40614
+Containers [TEU];Gd;2017;1580508
+Coal & coke;Gd;2018;7186
+Ores;Gd;2018;10
+Other bulk goods;Gd;2018;3914
+Grain;Gd;2018;559
+Wood;Gd;2018;429
+General cargo;Gd;2018;21422
+Oil;Gd;2018;15512
+Total;Gd;2018;49032
+Containers [TEU];Gd;2018;1948974
+Coal & coke;Gd;2019;6771
+Ores;Gd;2019;14
+Other bulk goods;Gd;2019;4112
+Grain;Gd;2019;612
+Wood;Gd;2019;256
+General cargo;Gd;2019;22891
+Oil;Gd;2019;17498
+Total;Gd;2019;52154
+Containers [TEU];Gd;2019;2073215
+Coal & coke;Gd;2020;5659
+Ores;Gd;2020;534
+Other bulk goods;Gd;2020;4534
+Grain;Gd;2020;1499
+Wood;Gd;2020;12
+General cargo;Gd;2020;22109
+Oil;Gd;2020;13692
+Total;Gd;2020;48038
+Containers [TEU];Gd;2020;1923785
+Coal & coke;Ga;2017;2135
+Ores;Ga;2017;15
+Other bulk goods;Ga;2017;1079
+Grain;Ga;2017;3483
+Wood;Ga;2017;234
+General cargo;Ga;2017;12460
+Oil;Ga;2017;1819
+Total;Ga;2017;710698
+Containers [TEU];Ga;2017;21225
+Coal & coke;Ga;2018;2629
+Ores;Ga;2018;0
+Other bulk goods;Ga;2018;1311
+Grain;Ga;2018;2995
+Wood;Ga;2018;979
+General cargo;Ga;2018;13817
+Oil;Ga;2018;1760
+Total;Ga;2018;803871
+Containers [TEU];Ga;2018;23491
+Coal & coke;Ga;2019;2877
+Ores;Ga;2019;0
+Other bulk goods;Ga;2019;1492
+Grain;Ga;2019;3221
+Wood;Ga;2019;365
+General cargo;Ga;2019;14148
+Oil;Ga;2019;1863
+Total;Ga;2019;896968
+Containers [TEU];Ga;2019;23965
+Coal & coke;Ga;2020;1685
+Ores;Ga;2020;0
+Other bulk goods;Ga;2020;1564
+Grain;Ga;2020;5431
+Wood;Ga;2020;102
+General cargo;Ga;2020;14108
+Oil;Ga;2020;1772
+Total;Ga;2020;905121
+Containers [TEU];Ga;2020;24662
+Coal & coke;Sz;2017;2139
+Ores;Sz;2017;2483
+Other bulk goods;Sz;2017;3077
+Grain;Sz;2017;1462
+Wood;Sz;2017;16
+General cargo;Sz;2017;12870
+Oil;Sz;2017;3378
+Total;Sz;2017;93579
+Containers [TEU];Sz;2017;25424
+Coal & coke;Sz;2018;3440
+Ores;Sz;2018;3226
+Other bulk goods;Sz;2018;3373
+Grain;Sz;2018;1095
+Wood;Sz;2018;76
+General cargo;Sz;2018;13431
+Oil;Sz;2018;3973
+Total;Sz;2018;81451
+Containers [TEU];Sz;2018;28614
+Coal & coke;Sz;2019;3130
+Ores;Sz;2019;2273
+Other bulk goods;Sz;2019;3351
+Grain;Sz;2019;1304
+Wood;Sz;2019;200
+General cargo;Sz;2019;17512
+Oil;Sz;2019;4406
+Total;Sz;2019;76143
+Containers [TEU];Sz;2019;32175
+Coal & coke;Sz;2020;2557
+Ores;Sz;2020;1685
+Other bulk goods;Sz;2020;3140
+Grain;Sz;2020;1876
+Wood;Sz;2020;104
+General cargo;Sz;2020;16874
+Oil;Sz;2020;4942
+Total;Sz;2020;86816
+Containers [TEU];Sz;2020;31178
