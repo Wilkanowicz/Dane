@@ -1,0 +1,28 @@
+﻿Goods;City;2017;2018;2019;2020
+Coal & coke;Gdansk;5083;7186;6771;5659
+Ores;Gdansk;93;10;14;534
+Other bulk goods;Gdansk;3444;3914;4112;4534
+Grain;Gdansk;774;559;612;1499
+Wood;Gdansk;3;429;256;12
+General cargo;Gdansk;18050;21422;22891;22109
+Oil;Gdansk;13168;15512;17498;13692
+Total;Gdansk;40614;49032;52154;48038
+Containers [TEU];Gdansk;1580508;1948974;2073215;1923785
+Coal & coke;Gdynia;2135;2629;2877;1685
+Ores;Gdynia;15;0;0;0
+Other bulk goods;Gdynia;1079;1311;1492;1564
+Grain;Gdynia;3483;2995;3221;5431
+Wood;Gdynia;234;979;365;102
+General cargo;Gdynia;12460;13817;14148;14108
+Oil;Gdynia;1819;1760;1863;1772
+Total;Gdynia;710698;803871;896968;905121
+Containers [TEU];Gdynia;21225;23491;23965;24662
+Coal & coke;Szczecin;2139;3440;3130;2557
+Ores;Szczecin;2483;3226;2273;1685
+Other bulk goods;Szczecin;3077;3373;3351;3140
+Grain;Szczecin;1462;1095;1304;1876
+Wood;Szczecin;16;76;200;104
+General cargo;Szczecin;12870;13431;17512;16874
+Oil;Szczecin;3378;3973;4406;4942
+Total;Szczecin;93579;81451;76143;86816
+Containers [TEU];Szczecin;25424;28614;32175;31178
