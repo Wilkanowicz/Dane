@@ -1,4 +1,4 @@
-Goods;Seaport;Year;Value
+﻿Goods;Seaport;Year;Value
 Coal & coke;Port of Gdansk;01.01.2017;5083
 Ores;Port of Gdansk;01.01.2017;93
 Other bulk goods;Port of Gdansk;01.01.2017;3444
@@ -134,7 +134,3 @@ General cargo;Port of Szczecin;01.01.2021;18340,9
 Oil;Port of Szczecin;01.01.2021;5250,2
 Total;Port of Szczecin;01.01.2021;33219,7
 Containers [TEU];Port of Szczecin;01.01.2021;82140
-;;;
-;;;
-;;;
-;;;
